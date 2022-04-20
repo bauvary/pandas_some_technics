@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from data_etu import * 
+from data_etu_func_pandas import * 
 from pandas import * 
 from numpy import * 
 from matplotlib.pyplot import * 
